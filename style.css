@@ -177,3 +177,9 @@ h3{
 	text-decoration: none;
 	
 }
+#navbarSupportedContent > ul{
+	padding-left: 0.8rem;
+}
+#navbarSupportedContent > ul > li:nth-child(n) > a{
+	padding: 0.8rem 0;
+}
